@@ -1,5 +1,5 @@
 # Descripcion 
-Este proyecto implementa una red neuronal utilizando TensorFlow para leer numeros. Esta red neuronal es capaz de leer numeros no digitalizados, reconociendo trazos dibujados a traves del conjunto de datos MNIST (Modified National Institute of Standards and Technology).
+Este proyecto implementa una red neuronal utilizando TensorFlow para interpretar números. Es capaz de leer numeros digitalizados por el usuario, reconociendo trazos dibujados. Usando como referencia el conjunto de datos MNIST (Modified National Institute of Standards and Technology).
 
 ```bash
 # Para instalar dependencias
